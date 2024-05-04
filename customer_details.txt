@@ -1,0 +1,23 @@
+Sayantan Chatterjee,9874921262,9836820960,N/A,N/A,Mirik,SBI ATM,SV00(2) SV10(5) SV05(4)
+
+Chaitali Ghatak,7980961137,9775178561,Hotel Kanchenjungha,B12,Darjeeling,Bank of Baroda,SV05(4) SV03(2)
+
+Sayan Karmakar,9310032958,8597290534,Hotel Tista,F45,Triveni,Indian Bank ATM,SV10(3)
+
+Tumpa Mitra,9123736447,9874380631,N/A,N/A,Lower Chatakpur,Sonada Forest Bungalow,SV29(3)
+
+Eknath Shinde,9007353437,9453214432,Purba Home Stay,A45,Triveni,SBI ATM,SV28(5) SV26(5) SV24(2)
+
+Sarbani Ghosh,7003293616,7061704707,Hotel Mayfair,MF7,Darjeeling,Mall,SV05(9)
+
+Arpan Bose,9310032958,9836070150,N/A,N/A,Sonada,Rainbow Falls,SV11(3) SV06(5) SV09(1)
+
+Prawal Verma,7061704707,9830851288,Lava Tourist Centre,67,Lava,Lava Bus Stand,SV07(5) SV11(9) SV12(3) SV03(2)
+
+Saurabh Tiwari,9073205506,9382754865,N/A,N/A,Kalingpong,Big Bazaar,SV15(3) SV17(2) SV14(5) SV19(1)
+
+Akshaj Pal,6296032620,9432431679,N/A,N/A,Lepchajagot,Lepchajagot Bus Stop,SV00(1) SV01(9) SV03(4) SV04(1) SV06(7)
+
+Arnab Bose,9073855637,7003496412,N/A,N/A,Mirik,Mirik Bus Stop,SV12(5) SV13(3)
+
+Sangbed Pal,9874921262,9836820960,Hotel Snow View,103,Darjeeling Male,Kanchenjunga,SV22(3)

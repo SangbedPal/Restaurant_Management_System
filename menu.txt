@@ -1,0 +1,74 @@
+
+                                                                      MENU CHART	
+
+                                      
+                                    SERIAL NUMBER           FOOD            COST(RS) PER PLATE            UNIQUE FOOD CODE
+
+                                          1              PLAIN DOSA                60                           SV00
+
+                                          2              MASALA DOSA               75                           SV01
+
+                                          3                 IDLI                   60                           SV02
+
+                                          4               VEG MOMO                 65                           SV03
+
+                                          5             CHICKEN MOMO               85                           SV04
+
+                                          6          MASALA PURI + SABJI           45                           SV05
+
+                                          7               EGG TOAST                50                           SV06
+
+                                          8                 UPMA                   40                           SV07
+
+                                          9                 POHA                   40                           SV08
+
+                                          10          MIXED FRUIT SALAD            85                           SV09
+
+                                          11            ROTI + SABJI               45                           SV10
+
+                                          12           ROTI + DUM ALOO             55                           SV11
+
+                                          13     SNOW VIEW SPECIAL BREAKFAST       120                          SV12
+
+                                          14            VEG THALI                  135                          SV13
+
+                                          15         SPECIAL VEG THALI             150                          SV14
+
+                                          16            FISH THALI                 180                          SV15
+
+                                          17          CHICKEN THALI                200                          SV16
+
+                                          18           MUTTON THALI                265                          SV17 
+
+                                          19           PANEER THALI                165                          SV18
+
+                                          20      SNOW VIEW SPECIAL LUNCH          300                          SV19
+
+                                          21            EGG ROLL                   65                           SV20
+
+                                          22          CHICKEN ROLL                 80                           SV21
+
+                                          23        EGG CHICKEN ROLL               100                          SV22
+
+                                          24          MUTTON ROLL                  155                          SV23
+
+                                          25        EGG MUTTON ROLL                170                          SV24
+
+                                          26           VEG ROLL                    45                           SV25
+
+                                          27         PANEER ROLL                   55                           SV26
+
+                                          28        CHICKEN PAKODA                 125                          SV27
+
+                                          29          DAHI VADA                    50                           SV28
+
+                                          30     SNOW VIEW SPECIAL DINNER          300                          SV29                 
+
+
+
+
+
+
+
+
+         
